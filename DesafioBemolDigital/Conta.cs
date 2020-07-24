@@ -32,7 +32,7 @@ namespace DesafioBemolDigital
 
                 this.mskCEP.Focus();
 
-                return;//teste
+                return;
             }
 
             if (mskCEP.TextLength == 9)
