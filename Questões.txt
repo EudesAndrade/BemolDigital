@@ -1,0 +1,19 @@
+Questões
+
+Responda sucintamente os itens a seguir em um .txt levando as perguntas e as respostas para o controle de versão da maneira que julgar mais apropriado:
+
+1. A solução deve ser disponibilizada em Cloud ou On-premise?
+R= On-Premise.
+
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução, responda qual ferramenta acreditas ser apropriada para o controle de tarefas da equipe, a ferramenta é ágil?
+R= Scrum, é uma metodologia ágil.
+
+3. Você se sente capaz de liderar esta equipe? Por quê?
+Sou capaz, porque tenho dois MBA’s em gestão de projetos de também já estou atuante na área a mais de seis anos.
+
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+R= Gostaria que o serviço de suporte de vocês quanto a esse desafio melhorasse, esta demorando muito.
+
+
+5. Acha válido esse desafio para o processo que está participando?
+Sim, pois temos a oportunidade de mostrar e de aprender um pouco mais.
